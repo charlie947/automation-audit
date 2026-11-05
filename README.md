@@ -5,6 +5,8 @@ are in the wrong place.
 
 List each job once and get a verdict with the reasoning behind it.
 
+**Get early access to Zapier's Next Gen Zaps:** [zc.s.gy/edAIjM](https://zc.s.gy/edAIjM). The rebuild in step 4 runs as a Next Gen Zap, so it keeps working after you close the chat.
+
 ## What it does
 
 You paste a list of your recurring jobs. It applies four tests to each one and returns:
@@ -34,7 +36,7 @@ vendor. If the audit cannot tell, it asks.
 
 1. **Load the instructions.** Upload `automation-audit.zip` as a skill, or paste
    `skills/automation-audit/SKILL.md` into a new chat.
-2. **Connect Zapier MCP** and authorise access, if you want the rebuild.
+2. **Connect Zapier MCP** and authorise access, if you want the rebuild. Early access to Next Gen Zaps: https://zc.s.gy/edAIjM
 3. **Audit your recurring jobs.** List them one per line and send `audit my automations`.
 4. **Build the first Move job.** Send `migrate it`. It is built with no trigger attached.
 5. **Test it by hand** and check the real output in each app.
